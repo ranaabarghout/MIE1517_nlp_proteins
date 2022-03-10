@@ -1,4 +1,4 @@
-name: PyProteinsGPU
+name: PyProteins
 channels:
    - nvidia
    - pytorch
@@ -12,9 +12,9 @@ dependencies:
    - pandas=1.1
    - scikit-learn>=1.0
    - pytorch==1.8.0
-   - cudatoolkit=11.1
-   - torchvision==0.9.0
-   - torchaudio==0.8.0
+   # - cudatoolkit=11.3
+   # - torchvision==0.10.0
+   # - torchaudio==0.9.0
    - statsmodels
    - python-dotenv
    - pip
@@ -22,3 +22,4 @@ dependencies:
    - jupyterlab
    - matplotlib
    - openpyxl
+   - seaborn
