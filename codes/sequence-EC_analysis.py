@@ -16,7 +16,7 @@ sns.set(style='darkgrid', font_scale=1.2)
 
 
 def main():
-    EC_data = pd.read_csv('./data/results.csv')
+    EC_data = pd.read_csv('../data/results.csv')
     EC_data.sort_values(by=['Column1'], inplace=True, ascending = [True])
 
     EC_num_counts = []
@@ -50,7 +50,7 @@ def main():
     plt.ylabel('Count')
     plt.xlabel('Number of Repeated Sequences')
 
-    postcdhit_data = pd.read_csv('./data/results-fasta-80percent.csv')
+    postcdhit_data = pd.read_csv('../data/results-fasta-80percent.csv')
     postcdhit_data.loc[-1] = ['>1']
     postcdhit_data.index = postcdhit_data.index + 1
     postcdhit_data = postcdhit_data.sort_index()
@@ -58,13 +58,15 @@ def main():
     new_post_data = pd.DataFrame({'Number': postcdhit_data['>1'].iloc[::2].values, 'sequence': postcdhit_data['>1'].iloc[1::2].values})
     new_post_data['Number'] = new_post_data['Number'].map(lambda x: x.lstrip('>'))
 
-    reader = csv.reader(open('./data/ECnum-dictionary.csv', 'r'))
+    reader = csv.reader(open('../data/ECnum-dictionary.csv', 'r'))
+    # reader = csv.reader(open('\MIE1517_nlp_proteins\data\ECnum-dictionary.csv', 'r'))
     d = {}
     for row in reader:
         k, v = row
         d[k] = v
 
     new_post_data_EC = new_post_data.replace({'Number': d})
+    new_post_data_EC.to_csv('../data/postprocessedECnumToSeq.csv')
 
     #### SAME ANALYSIS ON POST SIMILARITY DATA
     post_data_EC = new_post_data_EC.sort_values(by=['Number'], ascending = [True])
