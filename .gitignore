@@ -1,2 +1,2 @@
-./embeddings/*
-.tmp.*
+/embeddings/*
+tmp.*
