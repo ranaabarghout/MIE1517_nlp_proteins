@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 7a69a1cd93c314919e666e1fbf5c8ab9fbb1e38a Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1644263282 -0700	clone: from https://github.com/tomastokar/MIE1517_nlp_proteins.git
+7a69a1cd93c314919e666e1fbf5c8ab9fbb1e38a 1043aec1422e60e42855266702232315410f31be Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1644263361 -0700	commit: added raw data
+1043aec1422e60e42855266702232315410f31be 663fd99466dd31163c29b64aa67c9a41d0dd2df5 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1644263440 -0700	commit (amend): added raw data
+663fd99466dd31163c29b64aa67c9a41d0dd2df5 0508d1655dbd662a50aa0083771ce0da6eeaa74f Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1646929236 -0700	pull origin main: Fast-forward
+0508d1655dbd662a50aa0083771ce0da6eeaa74f d0e0c02ffea8ac74a896920544bdb99328e85ccf Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1646932267 -0700	commit: conda environments created
+d0e0c02ffea8ac74a896920544bdb99328e85ccf d0e0c02ffea8ac74a896920544bdb99328e85ccf Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1646932280 -0700	checkout: moving from main to dev
+d0e0c02ffea8ac74a896920544bdb99328e85ccf 2c58fe55c873bd67af1445043101338da7640ca9 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1646932826 -0700	commit: minor refactor
+2c58fe55c873bd67af1445043101338da7640ca9 b9002f4088b9347aaf0115858d9df3f8460dc3f2 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648396578 -0600	commit: notebooks from Rana and Julia added
+b9002f4088b9347aaf0115858d9df3f8460dc3f2 7b27685ef054ebe06432ca0bfdd3a4b2038e9504 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648429597 -0600	commit: esm protein classification added
+7b27685ef054ebe06432ca0bfdd3a4b2038e9504 d0e0c02ffea8ac74a896920544bdb99328e85ccf Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648489117 -0600	checkout: moving from dev to main
+d0e0c02ffea8ac74a896920544bdb99328e85ccf c392783b45311468dcfc4e9fb5406e630fc023db Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648489127 -0600	pull origin main: Fast-forward
+c392783b45311468dcfc4e9fb5406e630fc023db f8e6e0e68871e9bdf61268507df556fbe54ad3c3 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648522639 -0600	commit: gitignore
+f8e6e0e68871e9bdf61268507df556fbe54ad3c3 8e024e63f976073d0e240d9bdbe78ae1d2a3593f Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648522686 -0600	commit: gitignre
+8e024e63f976073d0e240d9bdbe78ae1d2a3593f b06f3f20734ed23ac98ce83c01531cba600353a3 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648522743 -0600	commit: gitignre
+b06f3f20734ed23ac98ce83c01531cba600353a3 7b27685ef054ebe06432ca0bfdd3a4b2038e9504 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648522755 -0600	checkout: moving from main to dev
+7b27685ef054ebe06432ca0bfdd3a4b2038e9504 b8ab20b75ffc71ad0cde6be6cf78de34f2af80ea Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648524816 -0600	commit: esm emb
+b8ab20b75ffc71ad0cde6be6cf78de34f2af80ea b8ab20b75ffc71ad0cde6be6cf78de34f2af80ea Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566219 -0600	reset: moving to HEAD
+b8ab20b75ffc71ad0cde6be6cf78de34f2af80ea b06f3f20734ed23ac98ce83c01531cba600353a3 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566240 -0600	checkout: moving from dev to main
+b06f3f20734ed23ac98ce83c01531cba600353a3 b8ab20b75ffc71ad0cde6be6cf78de34f2af80ea Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566613 -0600	checkout: moving from main to dev
+b8ab20b75ffc71ad0cde6be6cf78de34f2af80ea 5f681c81adcc319c9a061e9b245ea9ba46821393 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566679 -0600	commit (merge): pre merge on dev
+5f681c81adcc319c9a061e9b245ea9ba46821393 b06f3f20734ed23ac98ce83c01531cba600353a3 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566684 -0600	checkout: moving from dev to main
+b06f3f20734ed23ac98ce83c01531cba600353a3 b06f3f20734ed23ac98ce83c01531cba600353a3 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566698 -0600	checkout: moving from main to main
+b06f3f20734ed23ac98ce83c01531cba600353a3 5f681c81adcc319c9a061e9b245ea9ba46821393 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566700 -0600	checkout: moving from main to dev
+5f681c81adcc319c9a061e9b245ea9ba46821393 b06f3f20734ed23ac98ce83c01531cba600353a3 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566734 -0600	checkout: moving from dev to main
+b06f3f20734ed23ac98ce83c01531cba600353a3 b06f3f20734ed23ac98ce83c01531cba600353a3 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648566755 -0600	checkout: moving from main to dev
+b06f3f20734ed23ac98ce83c01531cba600353a3 8f8679a811a3564303241e98bb4b59f1a0404e34 Tomas Tokar <tomastokar@Tomass-MacBook-Pro.local> 1648571189 -0600	commit: esm changes
